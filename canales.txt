@@ -1,0 +1,11 @@
+#EXTM3U
+
+#EXTINF:111, Formula 1
+http://141.145.207.126:8080/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:112, Movistar Deportes
+http://141.145.207.126:8080/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+
+#EXTINF:113, Movistar Futbol
+http://141.145.207.126:8080/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
+
