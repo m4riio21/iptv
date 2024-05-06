@@ -11,6 +11,3 @@ http://141.145.207.126:8080/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990c
 
 #EXTINF:114, prueba
 http://141.145.207.126:8080/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-
-
-
