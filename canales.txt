@@ -9,5 +9,5 @@ http://141.145.207.126:8080/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015
 #EXTINF:113, Movistar Futbol
 http://141.145.207.126:8080/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
 
-#EXTINF:114, prueba
-http://141.145.207.126:8080/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:114, Champions
+http://141.145.207.126:8080/ace/manifest.m3u8?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
