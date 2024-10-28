@@ -150,5 +150,5 @@ http://141.145.207.126:8080/ace/manifest.m3u8?id=0ec3f3786318acd8dca2588f74c3759
 #EXTINF:155, NBA
 http://141.145.207.126:8080/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:155, futbol
-http://141.145.207.126:8080/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:155, test
+http://141.145.207.126:8080/ace/manifest.m3u8?id=4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef
