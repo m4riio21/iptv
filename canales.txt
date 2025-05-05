@@ -1,154 +1,145 @@
 #EXTM3U
-
-#EXTINF:111, Formula 1
-http://141.145.207.126:8080/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
-
-#EXTINF:112, Movistar Deportes
-http://141.145.207.126:8080/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
-
-#EXTINF:113, Movistar Futbol
-http://141.145.207.126:8080/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
-
-#EXTINF:114, Champions
-http://141.145.207.126:8080/ace/manifest.m3u8?id=931b1984badcb821df7b47a66ac0835ac871b51c
-
-#EXTINF:141, DAZN 1 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
-
-#EXTINF:142, DAZN 2 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-
-#EXTINF:143, DAZN 3 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-
-#EXTINF:144, DAZN 4 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-
-#EXTINF:145, DAZN F1 Multicamara (Formula 1)
-http://141.145.207.126:8080/ace/manifest.m3u8?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-
-#EXTINF:146, DAZN F1 UHD (Formula 1)
-http://141.145.207.126:8080/ace/manifest.m3u8?id=6b94479c24898700089e6b87d28a3ccc72dc4041
-
-#EXTINF:148, DAZN F1 1080 (Formula 1) 1
-http://141.145.207.126:8080/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
-
-#EXTINF:33, DAZN F1 1080 (Formula 1) 2
-http://141.145.207.126:8080/ace/manifest.m3u8?id=b13deca329dfd6b9a670faba1077b73f6ea7e188
-
-#EXTINF:36, DAZN F1 1080 (Formula 1) 3
-http://141.145.207.126:8080/ace/manifest.m3u8?id=60cf60019aeef9af6183dd05af1b89e25594ac14
-
-#EXTINF:39, DAZN F1 1080 (Formula 1) 4
-http://141.145.207.126:8080/ace/manifest.m3u8?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
-
-#EXTINF:44, DAZN F1 1080 (Formula 1) 5
-http://141.145.207.126:8080/ace/manifest.m3u8?id=b7db2c0404f90f99b01a8875713c047cd07595f7
-
-#EXTINF:3, DAZN F1 1080 (Formula 1) 6
-http://141.145.207.126:8080/ace/manifest.m3u8?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
-
-#EXTINF:33, DAZN F1 720 (Formula 1)
-http://141.145.207.126:8080/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-
-#EXTINF:115, LaLiga 4K
-http://141.145.207.126:8080/ace/manifest.m3u8?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-
-#EXTINF:116, LaLiga 1080P
-http://141.145.207.126:8080/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-
-#EXTINF:117, M. LaLiga 2 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
-
-#EXTINF:118, M. LaLiga 3 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=4c4844564313e39a888f593511f299f5ba3cf929
-
-#EXTINF:119, LaLiga 4 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-
-#EXTINF:120, LaLiga 5 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
-
-#EXTINF:121, M. LaLiga 6 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=c896d37778f9e43549a788fc22206a655895b51b
-
-#EXTINF:123, Movistar Plus 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-
-#EXTINF:124, Copa 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-
-#EXTINF:125, Copa 1080 plus
-http://141.145.207.126:8080/ace/manifest.m3u8?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-
-#EXTINF:126, #Vamos 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-
-#EXTINF:128, Movistar Deportes 2 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-
-#EXTINF:129, Movistar Deportes 3 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-
-#EXTINF:130, Movistar Deportes 4 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-
-#EXTINF:131, Movistar Deportes 5 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-
-#EXTINF:132, Movistar Deportes 6 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
-
-#EXTINF:133, Movistar Champions 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-
-#EXTINF:134, Movistar Champions 2 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-
-#EXTINF:135, Movistar Champions 3 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-
-#EXTINF:136, Movistar Champions 4 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-
-#EXTINF:137, Movistar Champions 5 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-
-#EXTINF:138, Movistar Champions 6 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=64a9353032efa2acb093d0bb86481f20f482d47e
-
-#EXTINF:139, Movistar Champions 7 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-
-#EXTINF:140, Movistar Champions 8 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
-
-#EXTINF:34, Movistar Champions 9 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-
-#EXTINF:35, Movistar Champions 10 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=ecf4ec41200785812c140e3d1050b412f1519fa7
-
-#EXTINF:149, EuroSport 1 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-
-#EXTINF:150, EuroSport 2 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=c373da9e901d414b7384e671112e64d5a2310c29
-
-#EXTINF:151, GOL TV 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=d4627f7b6b237a8556819445b3283d866caceca2
-
-#EXTINF:152, Tennis Channel
-http://141.145.207.126:8080/ace/manifest.m3u8?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
-
-#EXTINF:153, beIN SPORTS ñ
-http://141.145.207.126:8080/ace/manifest.m3u8?id=41af6926a6010b68ba2540975761436bb077748f
-
-#EXTINF:154, Real Madrid TV 1080
-http://141.145.207.126:8080/ace/manifest.m3u8?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
-
-#EXTINF:155, NBA
-http://141.145.207.126:8080/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
-
-#EXTINF:155, test
+#EXTINF:1, DAZN F1 1080 (Fórmula 1)
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN F1 1080 (Fórmula 1)
+#EXTINF:2, d6281d4e6310269b416180442a470d23a4a99dc9
 http://141.145.207.126:8080/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:3, DAZN F1 1080 (Fórmula 1)
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN F1 1080 (Fórmula 1)
+#EXTINF:4, 2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+http://141.145.207.126:8080/ace/manifest.m3u8?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:5, DAZN F1 1080 (Fórmula 1)
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN F1 1080 (Fórmula 1)
+#EXTINF:6, 71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+http://141.145.207.126:8080/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:7, DAZN F1 720 (Fórmula 1)
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN F1 720 (Fórmula 1)
+#EXTINF:8, 268289e7a3c5209960b53b4d43c8c65fab294b85
+http://141.145.207.126:8080/ace/manifest.m3u8?id=268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:9, M. LaLiga UHD
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga UHD
+#EXTINF:10, 94d34491106e00394835c8cb68aa94481339b53f
+http://141.145.207.126:8080/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:11, M. LaLiga 1080P
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 1080P
+#EXTINF:12, d3de78aebe544611a2347f54d5796bd87f16c92d
+http://141.145.207.126:8080/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:13, M. LaLiga 1080 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 1080 MultiAudio
+#EXTINF:14, 6d05b31e5e8fdae312fbd57897363a7b10ddb163
+http://141.145.207.126:8080/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:15, M. LaLiga 1080 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 1080 MultiAudio
+#EXTINF:16, 1bc437bce57b4b0450f6d1f8d818b7e97000745e
+http://141.145.207.126:8080/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:17, M. LaLiga 720
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 720
+#EXTINF:18, 83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+http://141.145.207.126:8080/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+#EXTINF:19, M. LaLiga 2 1080
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 2 1080
+#EXTINF:20, f31a586422c9244196c810c84b6c85da350318a5
+http://141.145.207.126:8080/ace/manifest.m3u8?id=f31a586422c9244196c810c84b6c85da350318a5
+#EXTINF:21, M. LaLiga 2 720
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 2 720
+#EXTINF:22, ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+http://141.145.207.126:8080/ace/manifest.m3u8?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+#EXTINF:23, M. LaLiga 3 1080
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 3 1080
+#EXTINF:24, 835639b89db00cc0d94660da3c10b6e38bfbcdc1
+http://141.145.207.126:8080/ace/manifest.m3u8?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1
+#EXTINF:25, M. LaLiga 3 720
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 3 720
+#EXTINF:26, 68697ea4f261289d97bbc3418ad3cbc4180aa32f
+http://141.145.207.126:8080/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
+#EXTINF:27, M. LaLiga 4 1080
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 4 1080
+#EXTINF:28, 608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+http://141.145.207.126:8080/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:29, M. LaLiga 5 1080
+http://141.145.207.126:8080/ace/manifest.m3u8?id=M. LaLiga 5 1080
+#EXTINF:30, 94d34491106e00394835c8cb68aa94481339b53f
+http://141.145.207.126:8080/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:31, La Liga BAR 1080
+http://141.145.207.126:8080/ace/manifest.m3u8?id=La Liga BAR 1080
+#EXTINF:32, 110d441ddc9713a7452588770d2bc85504672f47
+http://141.145.207.126:8080/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:33, La Liga BAR 1080
+http://141.145.207.126:8080/ace/manifest.m3u8?id=La Liga BAR 1080
+#EXTINF:34, ec29289b0b14756e686c03a501bae1efa05be70c
+http://141.145.207.126:8080/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:35, DAZN LaLiga 1080 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN LaLiga 1080 MultiAudio
+#EXTINF:36, 6de4794cd02f88f14354b5996823413a59a1de0f
+http://141.145.207.126:8080/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:37, DAZN LaLiga 1080 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN LaLiga 1080 MultiAudio
+#EXTINF:38, 8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+http://141.145.207.126:8080/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:39, DAZN LaLiga 1080 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN LaLiga 1080 MultiAudio
+#EXTINF:40, 51dbbfb42f8091e4ea7a2186b566a40e780953d9
+http://141.145.207.126:8080/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:41, DAZN LaLiga 720
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN LaLiga 720
+#EXTINF:42, 97ba38d47680954be40e48bd8f43e17222fefecb
+http://141.145.207.126:8080/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:43, DAZN LaLiga 2 1080 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN LaLiga 2 1080 MultiAudio
+#EXTINF:44, b2706a7ffbea236a3b398139a3a606ada664c0eb
+http://141.145.207.126:8080/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:45, DAZN LaLiga 2 720 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN LaLiga 2 720 MultiAudio
+#EXTINF:46, 121f719ebb94193c6086ef92865cf9b197750980
+http://141.145.207.126:8080/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:47, DAZN LaLiga 3 1080 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN LaLiga 3 1080 MultiAudio
+#EXTINF:48, 0cfdfde1b70623b8c210b0f7301be2a87456481d
+http://141.145.207.126:8080/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:49, DAZN LaLiga 4 1080 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN LaLiga 4 1080 MultiAudio
+#EXTINF:50, 0a335406bad0b658aeddb2d38f8c0614b2e5623a
+http://141.145.207.126:8080/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:51, DAZN LaLiga 5 1080 MultiAudio
+http://141.145.207.126:8080/ace/manifest.m3u8?id=DAZN LaLiga 5 1080 MultiAudio
+#EXTINF:52, fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+http://141.145.207.126:8080/ace/manifest.m3u8?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:53, LaLiga Smartbank 1080
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 1080
+#EXTINF:54, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
+#EXTINF:55, LaLiga Smartbank 720
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 720
+#EXTINF:56, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
+#EXTINF:57, LaLiga Smartbank 2 1080
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 2 1080
+#EXTINF:58, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
+#EXTINF:59, LaLiga Smartbank 2 720
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 2 720
+#EXTINF:60, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
+#EXTINF:61, LaLiga Smartbank 3
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 3
+#EXTINF:62, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
+#EXTINF:63, LaLiga Smartbank 4
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 4
+#EXTINF:64, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
+#EXTINF:65, LaLiga Smartbank 5
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 5
+#EXTINF:66, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
+#EXTINF:67, LaLiga Smartbank 6
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 6
+#EXTINF:68, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
+#EXTINF:69, LaLiga Smartbank 7
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 7
+#EXTINF:70, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
+#EXTINF:71, LaLiga Smartbank 8
+http://141.145.207.126:8080/ace/manifest.m3u8?id=LaLiga Smartbank 8
+#EXTINF:72, 
+http://141.145.207.126:8080/ace/manifest.m3u8?id=
