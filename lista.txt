@@ -411,3 +411,5 @@ http://141.145.207.126:8080/ace/getstream?id=999db87cb68b0a671d61a858da7d79dd97b
 http://141.145.207.126:8080/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass --> NEW ERA
 http://141.145.207.126:8080/ace/getstream?id=0ce88d9e7273fddbc9b49f578b6b255513697139
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", F1
+http://141.145.207.126:8080/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
