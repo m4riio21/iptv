@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 #EXTVLCOPT:network-caching=1000
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/test.png" tvg-id="test" group-title="TEST", TEST CHANNEL
+http://141.145.207.126:8080/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR ACCION FHD --> NEW ERA
 http://141.145.207.126:8080/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR CLASICOS FHD --> NEW ERA
