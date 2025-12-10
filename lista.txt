@@ -2,7 +2,7 @@
 #EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/test.png" tvg-id="test" group-title="TEST", TEST CHANNEL
-http://141.145.207.126:8080/ace/getstream?id=64a9353032efa2acb093d0bb86481f20f482d47e
+http://141.145.207.126:8080/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR ACCION FHD --> NEW ERA
 http://141.145.207.126:8080/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR CLASICOS FHD --> NEW ERA
